@@ -1,0 +1,16 @@
+Package: BSgenome.zmv3
+Title: Genome sequences for Zea mays (MaizeGDB v3.0)
+Description: A BSgenome package containing the full genome sequences for Zea mays (Maize) as provided by MaizeGDB and stored in Biostrings objects.
+Version: 1.0
+organism: Zea mays
+species: Maize
+provider: MaizeGDB
+provider_version: zmv3
+release_date: May. 2016
+release_name: Maize Genome Sequencing B73 3.0
+source_url: NA
+organism_biocview: zmays
+BSgenomeObjname: zmays
+seqs_srcdir: /home/rtraborn/R/x86_64-redhat-linux-gnu-library/3.1/BSgenome/extdata/zmays_seqs
+seqnames: names(fasta.info("/home/rtraborn/R/x86_64-redhat-linux-gnu-library/3.1/BSgenome/extdata/zmays.fa"))
+seqfile_name: zmv3.2bit
